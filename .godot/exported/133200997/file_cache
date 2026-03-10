@@ -1,0 +1,10 @@
+res://data/weapons/pistol.tres::9e60c5a24e56dd90bfeeb28632156fc2::1773138209::res://.godot/exported/133200997/export-506ee60ab655c97bfcfa37d68b5bfae2-pistol.res
+res://data/weapons/rifle.tres::39c09d3f739ffdf9fe91ab5b3d28400a::1773138218::res://.godot/exported/133200997/export-dfe914c8ad3d1a4b78fad98ccdc986d8-rifle.res
+res://data/weapons/shotgun.tres::90d64b184376738c174900a2a0807a01::1773138214::res://.godot/exported/133200997/export-3fb0b42544c4bdd7f2d4c852fe0b890a-shotgun.res
+res://data/game_balance.tres::1844acceab6977bbc859bb714c23b1b2::1773138205::res://.godot/exported/133200997/export-38f0c4795e500feae67baf2bc2cc05c6-game_balance.res
+res://scenes/Bullet.tscn::98498be74e60a1c2de7f2b2fcd3c4622::1773137424::res://.godot/exported/133200997/export-7cd7e18b2f210ec110de26632df1f5cd-Bullet.scn
+res://scenes/Drop.tscn::5793e2779a5fdf80829f85d6f520bae1::1773137428::res://.godot/exported/133200997/export-b9c58ca5be09c469742c9075873fa4ad-Drop.scn
+res://scenes/Game.tscn::73c037c7e85278bae264b88a7511c1ca::1773137405::res://.godot/exported/133200997/export-ff8ceb9b2bd5b48777d3d52e811276ab-Game.scn
+res://scenes/HUD.tscn::f9102f95e969a8c0c9ba5db2a653660d::1773137899::res://.godot/exported/133200997/export-2ea9781d6f9f7562c1d276c7fdd0b0ab-HUD.scn
+res://scenes/Player.tscn::613ffdfb28f9b79564c56fa43b5c89c1::1773137409::res://.godot/exported/133200997/export-e8220e74d1354b9e6b168b513689419c-Player.scn
+res://scenes/Zombie.tscn::3a69c683beebc1c004684628da7a1443::1773137415::res://.godot/exported/133200997/export-c44a419a2a76a2a94672610ba26ab6ff-Zombie.scn
