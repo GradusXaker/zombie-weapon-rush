@@ -1,0 +1,22 @@
+[gd_scene load_steps=5 format=3 uid="uid://d6m2f5d0x0k8u"]
+
+[ext_resource type="Script" path="res://scripts/game.gd" id="1_qw67x"]
+[ext_resource type="PackedScene" path="res://scenes/Player.tscn" id="2_x7pb5"]
+[ext_resource type="PackedScene" path="res://scenes/HUD.tscn" id="3_3e74d"]
+
+[node name="Game" type="Node2D"]
+script = ExtResource("1_qw67x")
+
+[node name="Player" parent="." instance=ExtResource("2_x7pb5")]
+position = Vector2(640, 360)
+
+[node name="Zombies" type="Node2D" parent="."]
+
+[node name="Bullets" type="Node2D" parent="."]
+
+[node name="Drops" type="Node2D" parent="."]
+
+[node name="Camera2D" type="Camera2D" parent="Player"]
+enabled = true
+
+[node name="HUD" parent="." instance=ExtResource("3_3e74d")]

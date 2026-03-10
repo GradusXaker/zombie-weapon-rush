@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="GameBalance" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/game_balance.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+base_spawn_interval = 1.05
+min_spawn_interval = 0.22
+spawn_acceleration = 0.01
+burst_start_time = 20.0
+burst_interval = 14.0
+burst_amount = 2
+drop_chance = 0.25
+weapon_drop_share = 0.45
+heal_drop_share = 0.35
+rapid_fire_drop_share = 0.2
+prewarm_zombies = 80
+prewarm_bullets = 180
+prewarm_drops = 48

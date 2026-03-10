@@ -1,0 +1,16 @@
+[gd_resource type="Resource" script_class="WeaponStats" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/weapon_stats.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+weapon_id = "shotgun"
+display_name = "Shotgun"
+damage = 8.0
+fire_rate = 1.45
+bullet_speed = 560.0
+pellets = 5
+spread = 0.22
+crit = 0.04
+drop_weight = 0.9
+unlock_cost = 120

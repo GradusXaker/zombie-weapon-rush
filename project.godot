@@ -1,0 +1,16 @@
+; Engine configuration file.
+; It's best edited using the editor.
+
+config_version=5
+
+[application]
+
+config/name="ZombieWeaponRush"
+run/main_scene="res://scenes/Game.tscn"
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
