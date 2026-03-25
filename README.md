@@ -1,6 +1,24 @@
-# ZombieWeaponRush (Godot 4)
+<div align="center">
+  <h1>ZombieWeaponRush</h1>
+  <p><strong>Неоновый top-down survival на Godot 4.</strong> Зомби, автострельба, апгрейды оружия и мобильный ритм боя.</p>
 
-Мобильный 2D top-down шутер: игрок двигается, автостреляет, убивает зомби и прокачивает оружие.
+  <p>
+    <img src="https://img.shields.io/badge/Godot-4-111827?style=for-the-badge&logo=godot-engine&logoColor=22C55E" alt="Godot 4" />
+    <img src="https://img.shields.io/badge/2D-top--down-shooter-111827?style=for-the-badge&logoColor=22C55E" alt="Top-down shooter" />
+    <img src="https://img.shields.io/badge/mobile-ready-111827?style=for-the-badge&logoColor=22C55E" alt="Mobile ready" />
+    <img src="https://img.shields.io/badge/status-playable-22C55E?style=for-the-badge&labelColor=0B1220" alt="Playable" />
+  </p>
+</div>
+
+```text
+> engine: godot 4
+> gameplay: survive / auto-fire / upgrade weapons
+> target: mobile first arcade action
+```
+
+## обзор
+
+Это мобильный `2D`-шутер с видом сверху, где игрок автоматически стреляет по ближайшим врагам, собирает дропы и прокачивает оружие между волнами и матчами.
 
 ## Что реализовано
 
