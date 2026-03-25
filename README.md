@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="./banner.svg" alt="zombie-weapon-rush banner" width="100%" />
+
   <h1>ZombieWeaponRush</h1>
   <p><strong>Неоновый top-down survival на Godot 4.</strong> Зомби, автострельба, апгрейды оружия и мобильный ритм боя.</p>
 
